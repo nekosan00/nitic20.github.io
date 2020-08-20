@@ -1,2 +1,4 @@
-let element = document.getElementById('sample');
-element.innerHTML = '自主規制';
+let hosi5sava = {
+    results: ["a","i","u","e","o"]
+    
+}
