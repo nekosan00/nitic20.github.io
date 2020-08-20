@@ -30,17 +30,3 @@ header h1 a{
     color:black;
     text-decoration: none;
 }
-
-main{
-
-}
-
-main h1{
-    margin: 2rem;
-}
-
-main li a{
-    color:black;
-    text-decoration: none;
-    margin :2rem ;
-}
